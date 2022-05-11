@@ -1,6 +1,7 @@
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning JavaScript and React
 - 📫 How to reach me: matheusouzafloriani@gmail.com
+- 📖 I am studying on the Alura platform
 
 <div align="center">
   <a href="https://github.com/MatheSouzaF">
