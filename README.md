@@ -1,11 +1,11 @@
-- 🔭 I’m currently working on PHP
-- 🌱 I’m currently learning PHP
+- 🔭 I’m currently working on React
+- 🌱 I’m currently learning React
 - 📫 How to reach me: matheusouzafloriani@gmail.com
 - 📖 I am studying on the Alura platform
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
